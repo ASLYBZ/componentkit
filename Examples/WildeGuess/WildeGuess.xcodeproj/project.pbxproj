@@ -336,6 +336,7 @@
 				TargetAttributes = {
 					B3E848BF1ABE848900377D52 = {
 						CreatedOnToolsVersion = 6.1;
+						DevelopmentTeam = 2NKGXFLX4U;
 						LastSwiftMigration = 1130;
 					};
 				};
@@ -586,8 +587,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
 				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = 2NKGXFLX4U;
 				INFOPLIST_FILE = "WildeGuess/WildeGuess-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kitty.club;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "WildeGuess/WildeGuess-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -601,8 +604,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
 				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = 2NKGXFLX4U;
 				INFOPLIST_FILE = "WildeGuess/WildeGuess-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kitty.club;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "WildeGuess/WildeGuess-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
