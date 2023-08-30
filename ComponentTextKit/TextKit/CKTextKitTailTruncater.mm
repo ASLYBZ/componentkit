@@ -8,10 +8,10 @@
  *
  */
 
-#import <ComponentKit/CKAssert.h>
+#import <RenderCore/RCAssert.h>
 
-#import <ComponentKit/CKTextKitContext.h>
-#import <ComponentKit/CKTextKitTailTruncater.h>
+#import <ComponentTextKit/CKTextKitContext.h>
+#import <ComponentTextKit/CKTextKitTailTruncater.h>
 
 @implementation CKTextKitTailTruncater
 {
